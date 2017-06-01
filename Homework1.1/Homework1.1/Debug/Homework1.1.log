@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\projects\c_old\homework1\homework1.1\homework1.1\source.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Homework1.1.vcxproj -> D:\Projects\source\repos\Old_Projects\Homework1.1\Debug\Homework1.1.exe
+  Homework1.1.vcxproj -> D:\Projects\source\repos\Old_Projects\Homework1.1\Debug\Homework1.1.pdb (Full PDB)
