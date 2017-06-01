@@ -1,6 +1,6 @@
-/* Проект Output
-Author: Андрей Васин andriivasin@gmail.com
-вторая программа для ШАГа, вывод типов данных
+/* project Output
+Author: Andrii Vasin andriivasin@gmail.com
+my second project for STEP academy. Basic Output. V2 (changed comments to eng)
 */
 #include <iostream>
 
