@@ -1,0 +1,4 @@
+﻿  Pokupka.cpp
+d:\projects\source\repos\old_projects\pokupka\pokupka\pokupka.cpp(14): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Pokupka.vcxproj -> D:\Projects\source\repos\Old_Projects\Pokupka\Debug\Pokupka.exe
+  Pokupka.vcxproj -> D:\Projects\source\repos\Old_Projects\Pokupka\Debug\Pokupka.pdb (Full PDB)
